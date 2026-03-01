@@ -1,0 +1,8 @@
+* {
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+  background: #333;
+  font-size: 1.6cm;
+}
